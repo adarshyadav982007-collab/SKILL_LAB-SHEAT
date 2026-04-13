@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main ()
+{
+int a,b,big;
+printf("enter valu of a&b");
+scanf("%d%d", &a &b);
+big = a>b? a:b;
+printf("greater no = %d, big);
+return 0;
+}
